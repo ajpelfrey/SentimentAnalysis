@@ -9,3 +9,4 @@ pip install transformers torch
 to run:
 python text_classifier.py
 
+#quick update
